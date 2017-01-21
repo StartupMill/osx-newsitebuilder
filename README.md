@@ -12,9 +12,9 @@ Currently supporting Sierra, probably works on older versions if you use some of
 
 ## CONFIG:
 Location of your websites, currently 
-`PATH_SITES="/Users/$USR_CONF/sites/www"
-PATH_HOST="/private/etc"
-PATH_CONF="/private/etc/apache2/users"`
+`PATH_SITES="/Users/$USR_CONF/sites/www"`
+`PATH_HOST="/private/etc"`
+`PATH_CONF="/private/etc/apache2/users"`
 
 ### To Edit:
 `USR_CONF="myusername"`
